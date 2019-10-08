@@ -1,0 +1,17 @@
+# Place the domain names or IP addresses that you want 
+# to exclude (or include) from processing in this file. 
+# 
+# Filter by TLD's
+#*.ca
+#*.com
+#*.net
+#*.org
+#*.co.uk
+#
+# Filter by FQDN
+#*.facebook.com
+#*.windowsupdate.com
+#*.microsoft.com
+#*.dropbox.com
+#*.google.ca
+#*.google.com
